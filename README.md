@@ -10,10 +10,28 @@ Cette présentation interactive propose un débat approfondi sur les usages, enj
 
 La conférence est organisée dans le cadre du programme **PAMT² (Programme d'Appui aux Médias en Tunisie)** par France Médias Monde.
 
-Cette présnetation est tiré du document "Cartographie des enjeux et usages de l’IA pour le
-journalisme". La conception de ce document a été coordonnée et pilotée par l’Institut national de l’audiovisuel (INA), sous la direction de Xavier Lemarchand (Directeur de mission Coordination & Intégration IA) et Antoine Bayet (Directeur éditorial de l’INA), et s’appuie sur les contributions et la relecture attentive des équipes éditoriales et numériques de Radio France (Florent Latrive, Alexandre Barlot), France Télévisions (Éric Scherer, Kati Bremme, Christophe de Vallambras, Cédric Nilly), France Médias Monde (Cécile Mégie, Bruno Flaven, Vincent Fleury), TV5MONDE (Hélène Zemmour, Xavier Marquet) et de l’INA (François Quinton, Camille Pettinéo).
+## 📄 Source et crédits
 
-005_Alliance_for_facts_IA_journalisme_FR_compressed_0.pdf
+Cette présentation est tirée du document **"Cartographie des enjeux et usages de l'IA pour le journalisme"**.
+
+### Coordination et pilotage
+La conception de ce document a été coordonnée et pilotée par l'**Institut national de l'audiovisuel (INA)**, sous la direction de :
+- Xavier Lemarchand (Directeur de mission Coordination & Intégration IA)
+- Antoine Bayet (Directeur éditorial de l'INA)
+
+### Contributions
+Ce document s'appuie sur les contributions et la relecture attentive des équipes éditoriales et numériques de :
+
+- **Radio France** : Florent Latrive, Alexandre Barlot
+- **France Télévisions** : Éric Scherer, Kati Bremme, Christophe de Vallambras, Cédric Nilly
+- **France Médias Monde** : Cécile Mégie, Bruno Flaven, Vincent Fleury
+- **TV5MONDE** : Hélène Zemmour, Xavier Marquet
+- **INA** : François Quinton, Camille Pettinéo
+
+### 🔗 Document complet
+[Télécharger le document PDF](https://github.com/bflaven/ia_conference_jan_26_tunisia/blob/main/005_Alliance_for_facts_IA_journalisme_FR_compressed_0.pdf)
+
+---
 
 
 ## 🎯 Objectifs
