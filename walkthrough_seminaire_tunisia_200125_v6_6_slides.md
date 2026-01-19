@@ -26,7 +26,7 @@
 
 ### Présentation (30 sec)
 - AI Coordinator à France Médias Monde
-- Projet CONDUIT : microservices IA multilingues (15 langues dont arabe)
+- Projet IA : microservices IA multilingues (15 langues dont arabe)
 - Plan : Partie 1 = Enjeux journalisme, Partie 2 = Aspects techniques
 
 ### Transition
