@@ -243,7 +243,7 @@ Cette présentation a été développée grâce aux contributions de :
 
 
 # go to the directory
-cd /Users/brunoflaven/Documents/03_git/ia_formation_tunisia
+cd /Users/brunoflaven/Documents/03_git/ia_conference_jan_26_tunisia
 
 
 # know your branch
