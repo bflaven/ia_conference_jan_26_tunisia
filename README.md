@@ -4,6 +4,16 @@
 
 ---
 
+
+### 🔗 Accès aux fichiers
+
+[![QR Code](qrcode_ia_conference_jan_26_tunisia.png)](https://fmm.io/12Ux)
+
+**Lien court** : [https://fmm.io/12Ux](https://fmm.io/12Ux)
+
+---
+
+
 ## 📋 Présentation
 
 Cette présentation interactive propose un débat approfondi sur les usages, enjeux et perspectives de l'Intelligence Artificielle dans le contexte tunisien. Elle s'adresse aux professionnels des médias, enseignants en journalisme, et acteurs de la transformation numérique en Tunisie.
